@@ -1,0 +1,28 @@
+.tanjiro  {
+    color: red;
+    text-decoration: underline;
+    font-weight: bold;
+}
+.ub {color: rgb(0, 89, 255);}
+h2{
+    text-transform: uppercase;
+}
+body{
+ background: no-repeat; 
+ background-size: cover;  
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/726/754/357/kali-linux-kali-linux-nethunter-linux-unix-lenovo-hd-wallpaper-preview.jpg);
+}
+p{color: white;
+font-weight: bold;
+text-indent: 10px;}
+ol{color: white;
+font-weight: bold;
+}
+h2{color: rgb(1, 60, 255);}
+h1{text-align: center;
+color: rgb(0, 75, 146);}*
+ol{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
