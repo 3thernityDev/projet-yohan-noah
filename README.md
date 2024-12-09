@@ -35,6 +35,8 @@ Le but de ce projet est de permettre aux stagiaires de découvrir le développem
    ```
 2. Ouvrez le fichier `index.html` dans un navigateur web.
 
+Ou --> [Ici](https://3thernitydev.github.io/projet-yohan-noah/)
+
 ---
 
 ## Contribution
