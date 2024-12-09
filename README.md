@@ -15,7 +15,7 @@ Le but de ce projet est de permettre aux stagiaires de découvrir le développem
 ## Fonctionnalités du Site
 
 - **Page d'accueil** : Une présentation générale de leur stage.
-- **Page (Lundi, Mardi, Mercredi ...): Qui résume ce qu'ils on fait lors de ce jour.
+- **Page (Lundi, Mardi, Mercredi ...)**: Qui résume ce qu'ils on fait lors de ce jour.
 
 
 ---
