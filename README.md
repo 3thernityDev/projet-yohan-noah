@@ -31,7 +31,7 @@ Le but de ce projet est de permettre aux stagiaires de découvrir le développem
 
 1. Clonez ce dépôt :
    ```bash
-   git clone https://github.com/votre-utilisateur/nom-du-repo.git
+   git clone https://github.com/3thernityDev/projet-yohan-noah
    ```
 2. Ouvrez le fichier `index.html` dans un navigateur web.
 
